@@ -1,0 +1,13 @@
+{
+    "name": "Nikaya Manalo",
+    "age": 27,
+    "city": "Seattle",
+    "interest": [
+        "Hiking",
+        "Videogames",
+        "Paddle Boarding",
+        "Travel",
+        "Gym"
+    ],
+    "is_student": true
+}

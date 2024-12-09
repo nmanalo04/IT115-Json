@@ -1,0 +1,12 @@
+{
+    "name": "Aya Manalo",
+    "age": 30,
+    "city": "Seattle",
+    "intrest": [
+        "Horror",
+        "Valorant",
+        "Family",
+        "Gym"
+    ],
+    "is_student": true
+}
